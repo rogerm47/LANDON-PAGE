@@ -1,1 +1,106 @@
-# LANDON-PAGE
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Booking Assistant for UK Roofers | Roger Malek Automation</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+    </style>
+</head>
+<body class="bg-slate-50 text-slate-800">
+
+    <header class="bg-white/90 backdrop-blur-lg fixed top-0 left-0 right-0 z-50 shadow-sm">
+        <div class="container mx-auto px-6 py-4 flex justify-between items-center">
+            <h1 class="text-xl font-bold text-slate-900">
+                Roger Malek | AI Automation
+            </h1>
+            <a href="[YOUR_CALENDAR_LINK]" target="_blank" class="hidden sm:inline-block bg-indigo-600 text-white font-semibold px-5 py-2 rounded-lg hover:bg-indigo-700 transition-colors duration-300">
+                Book a Free Consultation
+            </a>
+        </div>
+    </header>
+
+    <main>
+
+        <section class="bg-white pt-32 pb-20">
+            <div class="container mx-auto px-6 text-center">
+                <h2 class="text-4xl md:text-6xl font-extrabold text-slate-900 leading-tight mb-4">
+                    Stop Missing Calls.<br>Start Booking More Roofing Jobs.
+                </h2>
+                <p class="text-lg md:text-xl text-slate-600 max-w-3xl mx-auto mb-8">
+                    Our AI-powered WhatsApp Assistant automatically captures leads, answers questions, and books appointments 24/7, so you can focus on the job.
+                </p>
+                <a href="[YOUR_WHATSAPP_LINK]" target="_blank" class="bg-green-500 text-white font-bold text-lg px-8 py-4 rounded-lg hover:bg-green-600 transition-colors duration-300 inline-flex items-center">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 mr-3" viewBox="0 0 24 24" fill="currentColor"><path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.587-5.946.003-6.556 5.338-11.891 11.893-11.891 3.181.001 6.167 1.24 8.413 3.488 2.245 2.248 3.481 5.236 3.48 8.414-.003 6.557-5.338 11.892-11.893 11.892-1.99-.001-3.951-.5-5.688-1.448l-6.305 1.654zm6.597-3.807c1.676.995 3.276 1.591 5.392 1.592 5.448 0 9.886-4.434 9.889-9.885.002-5.451-4.437-9.887-9.886-9.888-5.452 0-9.887 4.434-9.889 9.886-.001 2.267.655 4.357 1.846 6.215l-1.267 4.625 4.75-1.241z"/></svg>
+                    Try the Live Demo on WhatsApp
+                </a>
+                <p class="text-slate-500 mt-4 text-sm">No sign-up required. See it in action instantly.</p>
+            </div>
+        </section>
+
+        <section class="py-16 bg-slate-100">
+            <div class="container mx-auto px-6 text-center">
+                <h3 class="text-3xl md:text-4xl font-bold text-slate-900 mb-2">Tired of Juggling Your Phone and Your Tools?</h3>
+                <p class="text-slate-600 max-w-2xl mx-auto mb-12">If you're a roofer, this probably sounds familiar...</p>
+                <div class="grid md:grid-cols-3 gap-8 max-w-5xl mx-auto">
+                    <div class="bg-white p-8 rounded-xl shadow-sm">
+                        <h4 class="text-xl font-bold mb-2">Missed Calls = Lost Jobs</h4>
+                        <p class="text-slate-600">You can't answer the phone while you're on a roof. Every missed call is a potential job gone to a competitor.</p>
+                    </div>
+                    <div class="bg-white p-8 rounded-xl shadow-sm">
+                        <h4 class="text-xl font-bold mb-2">Wasted Evenings</h4>
+                        <p class="text-slate-600">Your evenings are spent catching up on admin, replying to messages, and trying to schedule site visits instead of relaxing.</p>
+                    </div>
+                    <div class="bg-white p-8 rounded-xl shadow-sm">
+                        <h4 class="text-xl font-bold mb-2">Slow Responses</h4>
+                        <p class="text-slate-600">Customers expect instant replies. Waiting hours to respond makes your business look unprofessional and less reliable.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="py-20 bg-white">
+            <div class="container mx-auto px-6 max-w-4xl text-center">
+                <h3 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">Meet Your New 24/7 Office Assistant</h3>
+                <p class="text-lg text-slate-600 mb-12">I build custom AI-powered assistants that run on WhatsApp. They handle your customer enquiries automatically, so you don't have to.</p>
+                <div class="bg-slate-100 p-8 rounded-2xl shadow-lg border">
+                    <h4 class="text-2xl font-bold mb-4">Here's what your assistant will do for you:</h4>
+                    <ul class="text-left space-y-3 text-slate-700 text-lg">
+                        <li class="flex items-start"><span class="text-green-500 mr-3">✔</span> Instantly respond to every new enquiry, 24/7.</li>
+                        <li class="flex items-start"><span class="text-green-500 mr-3">✔</span> Ask key qualifying questions to understand the customer's needs.</li>
+                        <li class="flex items-start"><span class="text-green-500 mr-3">✔</span> Check your real-time calendar availability.</li>
+                        <li class="flex items-start"><span class="text-green-500 mr-3">✔</span> Automatically book a time for an on-site inspection.</li>
+                        <li class="flex items-start"><span class="text-green-500 mr-3">✔</span> Send automated confirmations via Email and SMS.</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <section class="py-20 bg-slate-800 text-white">
+            <div class="container mx-auto px-6 text-center">
+                 <h3 class="text-3xl md:text-4xl font-bold mb-4">Ready to Automate Your Enquiries?</h3>
+                 <p class="text-slate-300 max-w-2xl mx-auto mb-8">See for yourself how this tool can change your business. Try the demo now – it takes less than 60 seconds.</p>
+                 <a href="[YOUR_WHATSAPP_LINK]" target="_blank" class="bg-green-500 text-white font-bold text-lg px-8 py-4 rounded-lg hover:bg-green-600 transition-colors duration-300 inline-flex items-center">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 mr-3" viewBox="0 0 24 24" fill="currentColor"><path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.587-5.946.003-6.556 5.338-11.891 11.893-11.891 3.181.001 6.167 1.24 8.413 3.488 2.245 2.248 3.481 5.236 3.48 8.414-.003 6.557-5.338 11.892-11.893 11.892-1.99-.001-3.951-.5-5.688-1.448l-6.305 1.654zm6.597-3.807c1.676.995 3.276 1.591 5.392 1.592 5.448 0 9.886-4.434 9.889-9.885.002-5.451-4.437-9.887-9.886-9.888-5.452 0-9.887 4.434-9.889 9.886-.001 2.267.655 4.357 1.846 6.215l-1.267 4.625 4.75-1.241z"/></svg>
+                    Try the Live Demo Now
+                 </a>
+            </div>
+        </section>
+
+    </main>
+
+    <footer class="bg-slate-900 text-slate-400 py-6">
+        <div class="container mx-auto px-6 text-center">
+            <p>&copy; 2025 Roger Malek | AI Automation Services. All rights reserved.</p>
+        </div>
+    </footer>
+
+</body>
+</html>
